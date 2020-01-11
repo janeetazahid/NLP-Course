@@ -2,7 +2,7 @@ This assigement used text classification to determine is a movie review is posit
 
 In order to determine this the data from the file ** moviereviews.tsv ** was split into a traning and testing set.
 
-Then a pipline object was created, which consisted of a **tfidf vectorization** object and a ** linear SVC ** object.
+Then a pipline object was created, which consisted of a **Tfidf vectorization** object and a **linear SVC** object.
 
 The purpose of the **TfidfVectorizer** was:
   - count the number of times a term occures in the document 
