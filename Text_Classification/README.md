@@ -1,6 +1,6 @@
 This assigement used text classification to determine is a movie review is positive or negative.
 
-In order to determine this the data from the file ** moviereviews.tsv ** was split into a traning and testing set.
+In order to determine this the data from the file **moviereviews2.tsv** was split into a traning and testing set.
 
 Then a pipline object was created, which consisted of a **Tfidf vectorization** object and a **linear SVC** object.
 
