@@ -14,9 +14,9 @@ The purpose of the **Linear SVC (support vector class)** was:
 The pipeline object was used to train the model and thne used to predict the test values.
 
 After this the model was evaluated using the follows metrics:
-  - ** confusion matrix**
-  - ** accuracy score**
-  - ** classification report** 
+  - **confusion matrix**
+  - **accuracy score**
+  - **classification report** 
  
 **Language(s)**: Python
 
