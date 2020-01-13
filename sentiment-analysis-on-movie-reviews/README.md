@@ -10,9 +10,12 @@ Based on this if the compound score was positive it was categorized as a 'pos' r
 as a 'neg' review.
 
 Finally, the computed label was compared to the pre-exsisting lables and the following metrics were used to evaluate the outcome:
--**accuracy score**
--**confusion matrix**
--**classification report**
+- **accuracy score**
+
+- **confusion matrix**
+
+- **classification report**
+
 
 **Language(s)**: Python 
 
