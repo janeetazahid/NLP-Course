@@ -1,4 +1,4 @@
-This assigement used text classification to determine is a movie review is positive or negative.
+This assigement used text classification to determine if a movie review is positive or negative.
 
 In order to determine this the data from the file **moviereviews2.tsv** was split into a traning and testing set.
 
