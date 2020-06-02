@@ -1,4 +1,4 @@
-The purpose of this project was to preform sentiment analysis on several movie reviews and determine if it the review is 
+The purpose of this project was to perform sentiment analysis on several movie reviews and determine if it the review is 
 positive or negative. 
 
 In order to do this a textfile with movie reviews imported as a pandas dataframe.
